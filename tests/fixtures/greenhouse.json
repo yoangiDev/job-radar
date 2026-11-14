@@ -1,0 +1,394 @@
+{
+ "jobs": [
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8704363002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 6478405002,
+   "location": {
+    "name": "Remote, Canada; Remote, Poland; Remote, United Kingdom"
+   },
+   "metadata": [
+    {
+     "id": 4595831002,
+     "name": "Quota Coverage Type",
+     "value": "n/a",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 8704363002,
+   "updated_at": "2026-11-10T10:45:04-05:00",
+   "requisition_id": "6808",
+   "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+   "company_name": "GitLab",
+   "first_published": "2026-08-19T09:38:27-04:00",
+   "language": "en",
+   "application_deadline": null,
+   "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more s",
+   "departments": [
+    {
+     "id": 4115238002,
+     "name": "AI Engineering",
+     "child_ids": [],
+     "parent_id": 4011044002
+    }
+   ],
+   "offices": [
+    {
+     "id": 4142718002,
+     "name": "Poland",
+     "location": null,
+     "child_ids": [],
+     "parent_id": 4019553002
+    }
+   ],
+   "ai_disclaimer": null,
+   "include_ai_disclaimer": null,
+   "ai_opt_out_request_url": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8749950002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 6468814002,
+   "location": {
+    "name": "Remote, Poland"
+   },
+   "metadata": [
+    {
+     "id": 4595831002,
+     "name": "Quota Coverage Type",
+     "value": "n/a",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 8749950002,
+   "updated_at": "2026-11-06T15:25:07-05:00",
+   "requisition_id": "6749",
+   "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+   "company_name": "GitLab",
+   "first_published": "2026-08-26T07:08:19-04:00",
+   "language": "en",
+   "application_deadline": null,
+   "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more s",
+   "departments": [
+    {
+     "id": 4034706002,
+     "name": "DevOps Engineering",
+     "child_ids": [],
+     "parent_id": 4011044002
+    }
+   ],
+   "offices": [],
+   "ai_disclaimer": null,
+   "include_ai_disclaimer": null,
+   "ai_opt_out_request_url": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8682860002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 6468814002,
+   "location": {
+    "name": "Remote, United Kingdom"
+   },
+   "metadata": [
+    {
+     "id": 4595831002,
+     "name": "Quota Coverage Type",
+     "value": "n/a",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 8682860002,
+   "updated_at": "2026-11-06T15:25:07-05:00",
+   "requisition_id": "6749",
+   "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+   "company_name": "GitLab",
+   "first_published": "2026-08-12T04:18:04-04:00",
+   "language": "en",
+   "application_deadline": null,
+   "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more s",
+   "departments": [
+    {
+     "id": 4034706002,
+     "name": "DevOps Engineering",
+     "child_ids": [],
+     "parent_id": 4011044002
+    }
+   ],
+   "offices": [],
+   "ai_disclaimer": null,
+   "include_ai_disclaimer": null,
+   "ai_opt_out_request_url": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8775507002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 6510727002,
+   "location": {
+    "name": "Bangalore, India"
+   },
+   "metadata": [
+    {
+     "id": 4595831002,
+     "name": "Quota Coverage Type",
+     "value": "n/a",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 8775507002,
+   "updated_at": "2026-11-06T15:25:07-05:00",
+   "requisition_id": "6928",
+   "title": "Intermediate Backend Engineer, India",
+   "company_name": "GitLab",
+   "first_published": "2026-09-02T14:50:52-04:00",
+   "language": "en",
+   "application_deadline": null,
+   "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more s",
+   "departments": [
+    {
+     "id": 4011044002,
+     "name": "Engineering",
+     "child_ids": [
+      4012212002,
+      4144737002,
+      4118841002,
+      4096122002,
+      4115238002,
+      4135581002,
+      4135580002,
+      4115239002,
+      4115240002,
+      4034706002,
+      4061741002,
+      4016843002
+     ],
+     "parent_id": null
+    }
+   ],
+   "offices": [],
+   "ai_disclaimer": null,
+   "include_ai_disclaimer": null,
+   "ai_opt_out_request_url": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8916753002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 6572705002,
+   "location": {
+    "name": "Remote Ireland; Remote, France; Remote, Germany; Remote, Spain; Remote, United Kingdom"
+   },
+   "metadata": [
+    {
+     "id": 4595831002,
+     "name": "Quota Coverage Type",
+     "value": "n/a",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 8916753002,
+   "updated_at": "2026-11-06T15:25:07-05:00",
+   "requisition_id": "7299",
+   "title": "Manager, Professional Services Engineers, EMEA",
+   "company_name": "GitLab",
+   "first_published": "2026-10-28T10:53:30-04:00",
+   "language": "en",
+   "application_deadline": null,
+   "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more s",
+   "departments": [
+    {
+     "id": 4052737002,
+     "name": "Consulting Delivery",
+     "child_ids": [],
+     "parent_id": 4011049002
+    }
+   ],
+   "offices": [
+    {
+     "id": 4019553002,
+     "name": "EMEA",
+     "location": "Turkey",
+     "child_ids": [
+      4141035002,
+      4142718002,
+      4141748002,
+      4042500002,
+      4040905002,
+      4040903002,
+      4112146002,
+      4112147002,
+      4112148002,
+      4040908002,
+      4112149002,
+      4112150002,
+      4040907002,
+      4112151002,
+      4112152002,
+      4112153002,
+      4112154002
+     ],
+     "parent_id": null
+    }
+   ],
+   "ai_disclaimer": null,
+   "include_ai_disclaimer": null,
+   "ai_opt_out_request_url": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8926653002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 6577022002,
+   "location": {
+    "name": "Remote"
+   },
+   "metadata": [
+    {
+     "id": 4595831002,
+     "name": "Quota Coverage Type",
+     "value": "n/a",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 8926653002,
+   "updated_at": "2026-11-13T08:11:49-05:00",
+   "requisition_id": "7353",
+   "title": "Renewals Manager - Italy/ Spain",
+   "company_name": "GitLab",
+   "first_published": "2026-11-13T08:11:49-05:00",
+   "language": "en",
+   "application_deadline": null,
+   "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more s",
+   "departments": [
+    {
+     "id": 4095419002,
+     "name": "Renewals",
+     "child_ids": [
+      4109794002
+     ],
+     "parent_id": 4011043002
+    }
+   ],
+   "offices": [
+    {
+     "id": 4040905002,
+     "name": "Ireland",
+     "location": null,
+     "child_ids": [],
+     "parent_id": 4019553002
+    }
+   ],
+   "ai_disclaimer": null,
+   "include_ai_disclaimer": null,
+   "ai_opt_out_request_url": null
+  },
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/gitlab/jobs/8621733002",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 6443153002,
+   "location": {
+    "name": "Remote, United Kingdom"
+   },
+   "metadata": [
+    {
+     "id": 4595831002,
+     "name": "Quota Coverage Type",
+     "value": "n/a",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 8621733002,
+   "updated_at": "2026-11-06T15:25:07-05:00",
+   "requisition_id": "6609",
+   "title": "Senior Backend Engineer, AI Engineering: Chat   ",
+   "company_name": "GitLab",
+   "first_published": "2026-07-20T18:41:32-04:00",
+   "language": "en",
+   "application_deadline": null,
+   "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more s",
+   "departments": [
+    {
+     "id": 4115238002,
+     "name": "AI Engineering",
+     "child_ids": [],
+     "parent_id": 4011044002
+    }
+   ],
+   "offices": [
+    {
+     "id": 4040908002,
+     "name": "United Kingdom",
+     "location": null,
+     "child_ids": [],
+     "parent_id": 4019553002
+    }
+   ],
+   "ai_disclaimer": null,
+   "include_ai_disclaimer": null,
+   "ai_opt_out_request_url": null
+  }
+ ],
+ "meta": {
+  "total": 7
+ }
+}

@@ -1,0 +1,205 @@
+[
+ {
+  "additionalPlain": "Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience,",
+  "additional": "<div><span style=\"font-size: 11pt;\">Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! S",
+  "categories": {
+   "commitment": "Permanent",
+   "department": "Content",
+   "location": "Berlin",
+   "team": "Music Business",
+   "allLocations": [
+    "Berlin"
+   ]
+  },
+  "createdAt": 1792602675772,
+  "descriptionPlain": "We have a great opportunity for an Artist & Label Partnerships Manager to come and join the band in Berlin. The Artist & Label Partnerships team is the face of Spotify to artists, managers, labels & distributors.\nAs an Artist & Label Partnerships Manager your mission is to ensure that key artists, managers, and labels see Spotify as the #1 partner for artist development and monetization.\nIn this r",
+  "description": "<p>We have a great opportunity for an Artist &amp; Label Partnerships Manager to come and join the band in Berlin. The Artist &amp; Label Partnerships team is the face of Spotify to artists, managers, labels &amp; distributors.</p>\n<p>As an Artist &amp; Label Partnerships Manager your mission is to ensure that key artists, managers, and labels see Spotify as the #1 partner for artist development a",
+  "id": "93b9a474-0e4e-4214-9c9a-974496478068",
+  "lists": [
+   {
+    "text": "What You'll Do",
+    "content": "\n<li>Build and foster relations with key partners (artists, managers, labels, industry organizations) across Germany, Austria and Switzerland</li>\n<li>Act as a representative of Spotify externally in the music industry and empower artists and labels with knowledge, insights, and tools they need to succeed on Spotify, acting as their advocate and champion.</li>\n<li>Music Marketing and culture: Stay"
+   },
+   {
+    "text": "Who You Are",
+    "content": "\n<li>You have 2+ years of music industry experience, preferably in an artist &amp; partner-facing role.</li>\n<li>You have experience and knowledge working in a broad spectrum of culture with a focus on music and content.</li>\n<li>You have expertise in the electronic music space (preferred)</li>\n<li>You have a strong understanding of the digital music landscape and streaming platforms.</li>\n<li>You"
+   },
+   {
+    "text": "Where You'll Be ",
+    "content": "\n<li>This role is based in Berlin, Germany</li>\n<li>We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home. We ask that you come into the office 2-3 times per week.&nbsp;</li>\n"
+   }
+  ],
+  "text": "Artist & Label Partnerships Manager - GSA (15-month fixed-term)",
+  "country": "DE",
+  "workplaceType": "onsite",
+  "opening": "",
+  "openingPlain": "",
+  "descriptionBody": "<p>We have a great opportunity for an Artist &amp; Label Partnerships Manager to come and join the band in Berlin. The Artist &amp; Label Partnerships team is the face of Spotify to artists, managers, labels &amp; distributors.</p>\n<p>As an Artist &amp; Label Partnerships Manager your mission is to ensure that key artists, managers, and labels see Spotify as the #1 partner for artist development a",
+  "descriptionBodyPlain": "We have a great opportunity for an Artist & Label Partnerships Manager to come and join the band in Berlin. The Artist & Label Partnerships team is the face of Spotify to artists, managers, labels & distributors.\nAs an Artist & Label Partnerships Manager your mission is to ensure that key artists, managers, and labels see Spotify as the #1 partner for artist development and monetization.\nIn this r",
+  "hostedUrl": "https://jobs.lever.co/spotify/93b9a474-0e4e-4214-9c9a-974496478068",
+  "applyUrl": "https://jobs.lever.co/spotify/93b9a474-0e4e-4214-9c9a-974496478068/apply"
+ },
+ {
+  "additionalPlain": "Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience,",
+  "additional": "<div><span style=\"font-size: 11pt;\">Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! S",
+  "categories": {
+   "commitment": "Permanent",
+   "department": "Engineering",
+   "location": "Stockholm",
+   "team": "Platform",
+   "allLocations": [
+    "Stockholm",
+    "London"
+   ]
+  },
+  "createdAt": 1790590791162,
+  "descriptionPlain": "Every dataset at Spotify, from the data behind creator royalties to the signals powering recommendations, is registered, published and traced through systems our team builds. We're the source of truth for what data exists at Spotify, where it lives, who owns it, and how it flows from one pipeline to the next.\nThese systems sit on the critical path of the platform. Data teams use them every day to ",
+  "description": "<div>\n<p>Every dataset at Spotify, from the data behind creator royalties to the signals powering recommendations, is registered, published and traced through systems our team builds. We're the source of truth for what data exists at Spotify, where it lives, who owns it, and how it flows from one pipeline to the next.</p>\n<p>These systems sit on the critical path of the platform. Data teams use th",
+  "id": "186b763a-2a61-4563-8813-ff6b40c9c8a7",
+  "lists": [
+   {
+    "text": "What You'll Do",
+    "content": "<div>\n\n<li>Build and Evolve Core Services: Design, build and operate the backend services and APIs behind our data catalog, lineage and publishing systems, and evolve them as the platform adopts new storage technologies and new kinds of data. Hold them to a high bar for correctness, performance and reliability.</li>\n<li>Build Data Pipelines: Develop and run the batch and streaming pipelines that k"
+   },
+   {
+    "text": "Who You Are",
+    "content": "<div>\n\n<li>You have solid experience building and running backend services and APIs in production with Java, and you care about API design, versioning and backward compatibility.</li>\n<li>You're comfortable with SQL and have worked with data pipelines or a cloud data warehouse such as BigQuery, Snowflake or Databricks. Hands-on experience with batch or streaming frameworks like Beam, Flink or Spar"
+   },
+   {
+    "text": "Where You'll Be  ",
+    "content": "\n<li>This role is based in Stockholm or London.</li>\n<li>We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home.&nbsp;</li>\n"
+   }
+  ],
+  "text": "Backend Engineer - Data Platform",
+  "country": "SE",
+  "workplaceType": "hybrid",
+  "opening": "",
+  "openingPlain": "",
+  "descriptionBody": "<div>\n<p>Every dataset at Spotify, from the data behind creator royalties to the signals powering recommendations, is registered, published and traced through systems our team builds. We're the source of truth for what data exists at Spotify, where it lives, who owns it, and how it flows from one pipeline to the next.</p>\n<p>These systems sit on the critical path of the platform. Data teams use th",
+  "descriptionBodyPlain": "Every dataset at Spotify, from the data behind creator royalties to the signals powering recommendations, is registered, published and traced through systems our team builds. We're the source of truth for what data exists at Spotify, where it lives, who owns it, and how it flows from one pipeline to the next.\nThese systems sit on the critical path of the platform. Data teams use them every day to ",
+  "hostedUrl": "https://jobs.lever.co/spotify/186b763a-2a61-4563-8813-ff6b40c9c8a7",
+  "applyUrl": "https://jobs.lever.co/spotify/186b763a-2a61-4563-8813-ff6b40c9c8a7/apply"
+ },
+ {
+  "additionalPlain": "Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience,",
+  "additional": "<div><span style=\"font-size: 11pt;\">Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! S",
+  "categories": {
+   "commitment": "Permanent",
+   "department": "Engineering",
+   "location": "Stockholm",
+   "team": "Platform",
+   "allLocations": [
+    "Stockholm",
+    "London"
+   ]
+  },
+  "createdAt": 1790854925650,
+  "descriptionPlain": "LilEngine is leading the Lakehouse, a company-strategic effort to make Apache Iceberg a first-class citizen in Spotify's data ecosystem. We're building it in close collaboration with Google, on open standards, so that different kinds of data are queryable the same way and teams can bring the right engine, from BigQuery to Dataflow to Trino, to the job.\nThe work has two parts. Hecate enables Iceber",
+  "description": "<div>\n<p>LilEngine is leading the Lakehouse, a company-strategic effort to make Apache Iceberg a first-class citizen in Spotify's data ecosystem. We're building it in close collaboration with Google, on open standards, so that different kinds of data are queryable the same way and teams can bring the right engine, from BigQuery to Dataflow to Trino, to the job.</p>\n<p>The work has two parts. Hecat",
+  "id": "926149ab-6999-4058-b35d-41e302b70e05",
+  "lists": [
+   {
+    "text": "What You'll Do",
+    "content": "<div>\n\n<li><strong>Build and evolve the lakehouse:</strong> Help build the foundations that let data workflows read and write Iceberg tables directly, from this cycle's MVP to a production-grade platform.</li>\n<li><strong>Drive adoption:&nbsp;</strong>Help migrate data pipelines from across Spotify onto the new stack, making the move as painless as possible through tooling, standards and hands-on "
+   },
+   {
+    "text": "Who You Are",
+    "content": "<div>\n\n<li>You have solid experience building and operating backend services in production with Java or Scala.</li>\n<li>You're comfortable on GCP and Kubernetes. You can read kubectl output, reason about IAM and quotas, and work with CRDs and operators. You don't need deep expertise in all of these on day one.</li>\n<li>You've worked with Apache Iceberg or JVM-based processing frameworks like Spark"
+   },
+   {
+    "text": "Where You'll Be",
+    "content": "<div>This role is based in London or Stockholm.</div>\n<div>&nbsp;</div>\n<div>We offer the flexibility to work where you work best! There will be some in person meeetings, but still allows for flexibility to work from home.&nbsp;</div>"
+   }
+  ],
+  "text": "Backend Engineer - Data Platform",
+  "country": "SE",
+  "workplaceType": "hybrid",
+  "opening": "",
+  "openingPlain": "",
+  "descriptionBody": "<div>\n<p>LilEngine is leading the Lakehouse, a company-strategic effort to make Apache Iceberg a first-class citizen in Spotify's data ecosystem. We're building it in close collaboration with Google, on open standards, so that different kinds of data are queryable the same way and teams can bring the right engine, from BigQuery to Dataflow to Trino, to the job.</p>\n<p>The work has two parts. Hecat",
+  "descriptionBodyPlain": "LilEngine is leading the Lakehouse, a company-strategic effort to make Apache Iceberg a first-class citizen in Spotify's data ecosystem. We're building it in close collaboration with Google, on open standards, so that different kinds of data are queryable the same way and teams can bring the right engine, from BigQuery to Dataflow to Trino, to the job.\nThe work has two parts. Hecate enables Iceber",
+  "hostedUrl": "https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05",
+  "applyUrl": "https://jobs.lever.co/spotify/926149ab-6999-4058-b35d-41e302b70e05/apply"
+ },
+ {
+  "additionalPlain": "The United States base range for this position is $132,948 - $189,927 plus equity. The benefits available for this position include health insurance, six month paid parental leave, 401(k) retirement plan, monthly meal allowance, 23 paid days off, 13 paid flexible holidays. This range encompasses multiple levels. Leveling is determined during the interview process. Placement in a level depends on r",
+  "additional": "<div>\n<p>The United States base range for this position is $132,948 - $189,927 plus equity. The benefits available for this position include health insurance, six month paid parental leave, 401(k) retirement plan, monthly meal allowance, 23 paid days off, 13 paid flexible holidays. This range encompasses multiple levels. Leveling is determined during the interview process. Placement in a level dep",
+  "categories": {
+   "commitment": "Permanent",
+   "department": "Engineering",
+   "location": "New York, NY",
+   "team": "Music",
+   "allLocations": [
+    "New York, NY"
+   ]
+  },
+  "createdAt": 1790962985085,
+  "descriptionPlain": "Music Expression builds the tools artists use to show who they are on Spotify and to connect with fans. A song doesn't have to be just a track in a list. On Spotify it can come with a looping Canvas visual, a music video, a vertical-video clip from the artist, or a countdown to a new release. Release day can become a shared Listening Party. Every one of those things was built by this org. Each squ",
+  "description": "<div>\n<p>Music Expression builds the tools artists use to show who they are on Spotify and to connect with fans. A song doesn't have to be just a track in a list. On Spotify it can come with a looping Canvas visual, a music video, a vertical-video clip from the artist, or a countdown to a new release. Release day can become a shared Listening Party. Every one of those things was built by this org.",
+  "id": "9899871a-4307-4367-9f74-039569d7a650",
+  "lists": [
+   {
+    "text": "What You'll Do ",
+    "content": "<div>\n\n<li>\n<p>Design, build and maintain scalable backend services (Java)</p>\n</li>\n<li>\n<p>Be an active part of creating and evolving APIs and services that connect user experiences with internal scalable infrastructure, while applying product requirements</p>\n</li>\n<li>\n<p>Drive improvements to system architecture, performance, and developer experience</p>\n</li>\n<li>\n<p>Develop and enhance our "
+   },
+   {
+    "text": "Who You Are ",
+    "content": "<div>\n\n<li>\n<p>You are experienced in designing and developing backend applications in Java.</p>\n</li>\n<li>\n<p>You have a solid understanding of React, and TypeScript and are passionate about delivering end-to-end experiences and software architecture across the back-end, front-end, and the APIs that glue them together.</p>\n</li>\n<li>\n<p>You have a growth mindset, are curious, and are not afraid t"
+   },
+   {
+    "text": "Where You'll Be",
+    "content": "\n<li>We offer you the flexibility to work where you work best! For this role, you can be within the ET time zone as long as we have a work location.&nbsp;</li>\n"
+   }
+  ],
+  "text": "Full Stack Engineer - Music",
+  "country": "US",
+  "workplaceType": "remote",
+  "opening": "",
+  "openingPlain": "",
+  "descriptionBody": "<div>\n<p>Music Expression builds the tools artists use to show who they are on Spotify and to connect with fans. A song doesn't have to be just a track in a list. On Spotify it can come with a looping Canvas visual, a music video, a vertical-video clip from the artist, or a countdown to a new release. Release day can become a shared Listening Party. Every one of those things was built by this org.",
+  "descriptionBodyPlain": "Music Expression builds the tools artists use to show who they are on Spotify and to connect with fans. A song doesn't have to be just a track in a list. On Spotify it can come with a looping Canvas visual, a music video, a vertical-video clip from the artist, or a countdown to a new release. Release day can become a shared Listening Party. Every one of those things was built by this org. Each squ",
+  "hostedUrl": "https://jobs.lever.co/spotify/9899871a-4307-4367-9f74-039569d7a650",
+  "applyUrl": "https://jobs.lever.co/spotify/9899871a-4307-4367-9f74-039569d7a650/apply"
+ },
+ {
+  "additional": "",
+  "additionalPlain": "",
+  "categories": {
+   "commitment": "Permanent",
+   "department": "Engineering",
+   "location": "London",
+   "team": "Experience",
+   "allLocations": [
+    "London",
+    "Stockholm"
+   ]
+  },
+  "createdAt": 1792601057090,
+  "descriptionPlain": "We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where",
+  "description": "<div>\n<p>We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrati",
+  "id": "9f66e598-8587-4a57-8552-2cdb8672014a",
+  "lists": [
+   {
+    "text": "What You'll Do",
+    "content": "<div>\n\n<li>Build and run the backend services and data pipelines that ingest, validate and process music deliveries from partners, covering audio, metadata, lyrics and new content types</li>\n<li>Own large parts of the ingestion pipeline and lead technical work as we add video, richer partner data and other new content</li>\n<li>Make ingestion more reliable, catch data quality problems at the point "
+   },
+   {
+    "text": "Who You Are",
+    "content": "<div>\n\n<li>You have strong experience building and operating backend services and data pipelines in production at scale, ideally in Java, Scala or Go</li>\n<li>You have designed APIs and handled schema evolution and backward compatibility in systems where other teams rely on stable contracts</li>\n<li>You’re comfortable modelling data for auditability, versioning and efficient querying and&nbsp; und"
+   },
+   {
+    "text": "Where You'll Be",
+    "content": "\n<li>This role is based in London or Stockholm.</li>\n<li>We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home.</li>\n"
+   }
+  ],
+  "text": "Senior Backend Engineer - Content Platform",
+  "country": "GB",
+  "workplaceType": "hybrid",
+  "opening": "",
+  "openingPlain": "",
+  "descriptionBody": "<div>\n<p>We design Spotify&rsquo;s consumer experience&mdash;end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints&mdash;from our mobile and desktop apps to the smart speakers, TVs, c",
+  "descriptionBodyPlain": "We design Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where",
+  "hostedUrl": "https://jobs.lever.co/spotify/9f66e598-8587-4a57-8552-2cdb8672014a",
+  "applyUrl": "https://jobs.lever.co/spotify/9f66e598-8587-4a57-8552-2cdb8672014a/apply"
+ }
+]
