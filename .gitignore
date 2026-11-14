@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Personal data never leaves the machine: seed list and database
+data/
+*.db
+
+# Planning notes and assistant files stay local; only READMEs are published
+docs/
+.claude/
+CLAUDE.md
