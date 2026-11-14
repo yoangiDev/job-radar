@@ -106,3 +106,32 @@ def test_cli_run(seed, db_url, transport, monkeypatch):
     assert result.exit_code == 0, result.output
     assert "lever: 5 fetched, 4 new, 0 errors" in result.output
     assert "ERROR Broken (greenhouse/broken)" in result.output
+
+
+def test_cli_today(seed, db_url, transport, boards, monkeypatch, tmp_path):
+    unclear = copy.deepcopy(boards["greenhouse"]["jobs"][0])
+    unclear.update(id=1, title="Junior Backend Engineer", absolute_url="https://example.test/1")
+    unclear["location"]["name"] = "Remote"
+    boards["greenhouse"]["jobs"].append(unclear)
+    pipeline.run(seed, get_engine(db_url), transport)
+    monkeypatch.setenv("RADAR_DB_URL", db_url)
+    runner = CliRunner()
+
+    result = runner.invoke(app, ["today"])
+
+    # 19 stored, 1 duplicate hidden; only two survive the title and location rules.
+    assert result.exit_code == 0, result.output
+    lines = result.output.splitlines()
+    assert lines[0] == "# Radar: 2 matching jobs out of 18 new postings (last 24 h)"
+    assert sorted(lines[2:]) == [
+        "- [AI Platform Engineer](https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541)"
+        " | Supabase | Remote, Global | published 2026-07-31",
+        "- [Junior Backend Engineer](https://example.test/1) | GitLab | Remote (?) | published 2026-08-19",
+    ]
+    assert lines[2].startswith("- [Junior")  # freshest publication first
+
+    assert "0 matching jobs out of 0 new postings" in runner.invoke(app, ["today", "--hours", "0"]).output
+
+    digest = tmp_path / "today.md"
+    assert runner.invoke(app, ["today", "--out", str(digest)]).exit_code == 0
+    assert digest.read_text(encoding="utf-8") == result.output
