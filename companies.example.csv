@@ -1,0 +1,6 @@
+name,domain,ats,slug,sector
+GitLab,gitlab.com,greenhouse,gitlab,devtools
+Discord,discord.com,greenhouse,discord,gaming
+Spotify,spotify.com,lever,spotify,music
+Supabase,supabase.com,ashby,supabase,devtools
+PostHog,posthog.com,ashby,posthog,analytics
